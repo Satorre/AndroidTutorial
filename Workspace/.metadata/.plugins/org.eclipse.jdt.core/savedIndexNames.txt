@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\AAA\Desktop\Cours_EPFL\Master_2eme_annee\Semestre_3\Software_Engineering\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+1383961454.index
+463264702.index
+2961313679.index
